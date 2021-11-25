@@ -1,4 +1,4 @@
-
+console.log("git test --- from liang");
 function Timer() {
     this.s1 = 0;
     this.s2 = 0;
@@ -42,6 +42,6 @@ let result =fun({
 })
 console.log(result);  //30
 
-console.log("git test --- from liang");
+
 
 
