@@ -42,4 +42,6 @@ let result =fun({
 })
 console.log(result);  //30
 
+console.log("git test --- from liang");
+
 
