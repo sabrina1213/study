@@ -1,4 +1,5 @@
-
+/* syt*/
+console.log('from syt----');
 function Timer() {
     this.s1 = 0;
     this.s2 = 0;
